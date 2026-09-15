@@ -1,5 +1,14 @@
 # Package Vulnerability Management & Reporting Collaboration Space
 
+> [!CAUTION]
+> This working group has been superseded by the [Security Working Group](https://github.com/openjs-foundation/security-wg/)
+
+## This working group has been superseded by the [Security Working Group](https://github.com/openjs-foundation/security-wg/)
+
+> [!CAUTION]
+> This working group has been superseded by the [Security Working Group](https://github.com/openjs-foundation/security-wg/)
+
+
 ### Mission Statement
 
 Today maintainers deal with a significant influx of issues, PRs (re. updating dependencies) & broader comms when a new CVE is reported on a popular library in our ecosystem. Many of these are being considered "false positives" from an impact/vulnerability perspective. This level of noise creates distrust in the relationships between security companies/researchers, maintainers, & the collective end-users/consumers.
